@@ -35,15 +35,15 @@ Senior Citizen (60+)
 
 16. Write a program to grade a student based on marks:
 
-≥ 90 → A
+      ≥ 90 → A
 
-≥ 75 → B
+      ≥ 75 → B
 
-≥ 60 → C
+      ≥ 60 → C
 
-≥ 40 → D
+      ≥ 40 → D
 
-Else → Fail
+      Else → Fail
 
 17. Write a program to find the largest of three numbers.
 

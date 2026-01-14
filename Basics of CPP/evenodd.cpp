@@ -1,8 +1,4 @@
-/* 
-7. Write a program to check whether a number is even or odd.
-
-8. Write a program to check whether a person is eligible to vote (age ≥ 18).
- */
+/* 7. Write a program to check whether a number is even or odd. */
 
  #include<iostream>
  using namespace std;
