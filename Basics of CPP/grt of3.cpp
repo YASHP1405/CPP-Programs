@@ -1,0 +1,24 @@
+// 17. Write a program to find the largest of three numbers.
+
+#include<iostream>
+using namespace std;
+void greaterofthree(int a, int b, int c);
+
+void greaterofthree(int a, int b, int c){
+    if(a>=b && a>=c){
+        cout<<a<<" is the largest number.";
+    }
+    else if(b>=a && b>=c){
+        cout<<b<<" is the largest number.";
+    }
+    else{
+        cout<<c<<" is the largest number.";
+    }
+}
+int main(){
+    int a, b, c;
+    cout<<"Enter three numbers: ";
+    cin>>a>>b>>c;
+    greaterofthree(a, b, c);
+    return 0;
+}
