@@ -4,14 +4,14 @@
 #include <iostream>
 using namespace std;
 
-void checkmultiple(int n);   // function declaration
+void checkmultiple(int n);   
 
 int main() {
     int n;
     cout << "Enter the number to check whether it is multiple of 3 or not: ";
     cin >> n;
 
-    checkmultiple(n);   // function call
+    checkmultiple(n);   
     return 0;
 }
 
