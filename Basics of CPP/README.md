@@ -56,3 +56,87 @@ Senior Citizen (60+)
 ≤100 units → ₹1/unit
 101–200 → ₹2/unit
 200 → ₹3/uni
+
+21. Write a program to read and print elements of a 1D array.
+
+Find the sum and average of elements in an array.
+
+Find the maximum and minimum element in an array.
+
+Count the number of even and odd elements in an array.
+
+Reverse an array without using another array.
+
+Copy elements of one array into another array.
+
+Search an element in an array using linear search.
+
+Sort an array in ascending order.
+
+Sort an array in descending order.
+
+Find the second largest element in an array.
+
+Count the frequency of each element in an array.
+
+Remove duplicate elements from an array.
+
+Insert an element at a given position in an array.
+
+Delete an element from a given position in an array.
+
+Merge two arrays into a third array.
+
+Separate positive and negative numbers in an array.
+
+Find all duplicate elements in an array.
+
+Rotate an array to the left by k positions.
+
+Find the intersection of two arrays.
+
+Find the union of two arrays.
+Functions
+Write a function to print Hello World.
+
+Write a function to find the sum of two numbers.
+
+Write a function to check whether a number is even or odd.
+
+Write a function to find the square and cube of a number.
+
+Write a function to check whether a number is prime.
+
+Write a function to find the factorial of a number.
+
+Write a function to find the GCD of two numbers.
+
+Write a function to find the LCM of two numbers.
+
+Write a function to reverse a number.
+
+Write a function to check whether a number is a palindrome.
+
+Write a function to check whether a number is an Armstrong number.
+
+Write a function to find the sum of digits of a number.
+
+Write a function to swap two numbers:
+
+using call by value
+
+using call by reference
+
+Write a function to find the maximum of three numbers.
+
+Write a function to generate Fibonacci series up to n terms.
+
+Write a recursive function to find the factorial of a number.
+
+Write a recursive function to find the sum of first n natural numbers.
+
+Write a function that takes an array as a parameter and prints it.
+
+Write a function to find the largest element in an array.
+
+Write a function to sort an array using Bubble Sort.
